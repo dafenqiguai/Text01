@@ -1,7 +1,7 @@
 public class Text02 {
 
     public double wdd(){
-      toString("纷纷往返");
+      toString("纷灌灌灌灌发郭德纲的鬼地方返");
         return 1.11;
     }
 
